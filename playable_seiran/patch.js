@@ -9,5 +9,5 @@
 	"servers": [
 		"https://raw.githubusercontent.com/BrosterMedia/touhoupatches/main/playable_seiran/"
 	],
-	"title": "PlayableSeiran"
+	"title": "Playable Seiran (Reimu retexture) (TH17)"
 }
