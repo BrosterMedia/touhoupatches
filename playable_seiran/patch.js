@@ -7,7 +7,7 @@
 	],
 	"id": "playable_seiran",
 	"servers": [
-		"https://raw.githubusercontent.com/Zrrg/UnKnwn/master/untanned_cirno/"
+		"https://raw.githubusercontent.com/BrosterMedia/touhoupatches/main/playable_seiran/"
 	],
 	"title": "PlayableSeiran"
 }
